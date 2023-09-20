@@ -1,4 +1,6 @@
-![Logo pling](https://github.com/MrrMiloa/Zenith-Surya-Sapphire/assets/119014113/b56d3697-400e-48e9-83d6-d2c36694eb4d)
+
+![Surya github](https://github.com/MrrMiloa/Zenith-Surya-Sapphire/assets/119014113/a040fe1d-6f30-473b-8125-9aedb8bc8a33)
+
 ### Zenith X Sapphire
 ### Steps for install
 - Flash rom
